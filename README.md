@@ -1,6 +1,9 @@
 # kafka_go
 learn
 
+# 启动测试
+- 启动生产者：go run cmd/producer/main.go
+- 启动消费者：go run cmd/consumer/main.go
 # win10下环境搭建
 - 参考文章：https://www.confluent.io/blog/set-up-and-run-kafka-on-windows-linux-wsl-2/
 - 相关操作命令(cd kafka...)
